@@ -683,7 +683,3 @@
   height: 200px;
   background: url("https://comfy-themes.github.io/Discord/assets/bonfire.gif") center/80% no-repeat;
 }
-
-:root {
-  --visRefresh-text: "[Comfy] Work In Progress";
-}
